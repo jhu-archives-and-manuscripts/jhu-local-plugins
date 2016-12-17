@@ -1,0 +1,20 @@
+JHU local plugins
+----------------------------------------------
+
+This plugin suppresses fields identified by the best practices group in 2016.
+
+## Add local access restriction labels [AS-128](https://issues.library.jhu.edu/browse/AS-128)
+
+Add labels to en.yml file for
+
+- Deed of gift imposed
+- Institutional policy imposed
+
+## Installation
+
+To install, just activate the plugin in your config/config.rb file by
+including an entry such as:
+
+     AppConfig[:plugins] = ['jhu-local-plugins']
+
+Then restart ArchivesSpace.
