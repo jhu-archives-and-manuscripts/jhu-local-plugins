@@ -5,7 +5,7 @@ This plugin suppresses fields identified by the best practices group in 2016.
 
 ## Add local access restriction labels [AS-128](https://issues.library.jhu.edu/browse/AS-128)
 
-Add labels to en.yml file for
+Add labels to en.yml and model_restriction_spec.rb files for
 
 - Deed of gift imposed
 - Institutional policy imposed
