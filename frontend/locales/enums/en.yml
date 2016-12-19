@@ -5,3 +5,12 @@ en:
     restriction_type:
       Deed of gift imposed: Deed of gift imposed
       Institutional policy imposed: Institutional policy imposed
+      RestrictedSpecColl: 1 - Donor/university imposed access restriction
+      RestrictedCurApprSpecColl: 2 - Repository imposed access restriction
+      RestrictedFragileSpecColl: 3 - Restricted fragile
+      InProcessSpecColl: 4 - Restricted in-process
+      ColdStorageBrbl: 5 - Other
+
+  enumeration_names:
+    user_defined_enum_1: Accession Status
+    restriction_type: Local Access Restriction Type
