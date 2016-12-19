@@ -1,5 +1,7 @@
 en:
   enumerations:
+    linked_agent_archival_record_relators:
+      cur: Curator
     restriction_type:
       Deed of gift imposed: Deed of gift imposed
       Institutional policy imposed: Institutional policy imposed
