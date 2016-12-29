@@ -10,6 +10,9 @@ en:
       RestrictedFragileSpecColl: 3 - Restricted fragile
       InProcessSpecColl: 4 - Restricted in-process
       ColdStorageBrbl: 5 - Other
+    user_defined_enum_1:
+      complete: complete
+      incomplete: Incomplete
 
   enumeration_names:
     user_defined_enum_1: Accession Status
