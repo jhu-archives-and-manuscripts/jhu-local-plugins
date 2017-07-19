@@ -3,13 +3,13 @@ en:
     linked_agent_archival_record_relators:
       cur: Curator
     restriction_type:
-      Deed of gift imposed: Deed of gift imposed
       Institutional policy imposed: Institutional policy imposed
-      RestrictedSpecColl: 1 - Donor/university imposed access restriction
-      RestrictedCurApprSpecColl: 2 - Repository imposed access restriction
-      RestrictedFragileSpecColl: 3 - Restricted fragile
-      InProcessSpecColl: 4 - Restricted in-process
-      ColdStorageBrbl: 5 - Other
+      Deed of gift imposed: Deed of gift imposed
+      InProcessSpecColl: Restricted in-process
+      ColdStorageBrbl: Other
+      # RestrictedSpecColl: 1 - Donor/university imposed access restriction
+      # RestrictedCurApprSpecColl: 2 - Repository imposed access restriction
+      # RestrictedFragileSpecColl: 3 - Restricted fragile
     user_defined_enum_1:
       complete: complete
       incomplete: Incomplete
